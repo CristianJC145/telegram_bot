@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    color: rgb(137, 114, 114);
+}
+
+
+.disabled{
+    background-color: #fff;
+    cursor: pointer;
+}
